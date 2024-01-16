@@ -1,0 +1,1 @@
+# makes "internal" a "Python subpackage"
